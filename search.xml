@@ -29,31 +29,6 @@
     
     
     <entry>
-      <title>JavaTest</title>
-      <link href="/posts/3eed.html"/>
-      <url>/posts/3eed.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="JavaTest雷达"><a href="#JavaTest雷达" class="headerlink" title="JavaTest雷达"></a>JavaTest雷达</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>PythonTest</title>
       <link href="/posts/3eee.html"/>
       <url>/posts/3eee.html</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JavaTest</title>
+      <link href="/posts/3eed.html"/>
+      <url>/posts/3eed.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="JavaTest雷达"><a href="#JavaTest雷达" class="headerlink" title="JavaTest雷达"></a>JavaTest雷达</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
             
         </tags>
       

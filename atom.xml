@@ -45,34 +45,6 @@
   </entry>
   
   <entry>
-    <title>JavaTest</title>
-    <link href="https://github.com/skyuj/posts/3eed.html"/>
-    <id>https://github.com/skyuj/posts/3eed.html</id>
-    <published>2022-01-16T12:52:20.000Z</published>
-    <updated>2022-01-17T04:42:34.599Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;JavaTest雷达&quot;&gt;&lt;a href=&quot;#JavaTest雷达&quot; class=&quot;headerlink&quot; title=&quot;JavaTest雷达&quot;&gt;&lt;/a&gt;JavaTest雷达&lt;/h1&gt;&lt;script&gt;
-       
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Java" scheme="https://github.com/skyuj/categories/Java/"/>
-    
-    
-      <category term="Java" scheme="https://github.com/skyuj/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
     <title>PythonTest</title>
     <link href="https://github.com/skyuj/posts/3eee.html"/>
     <id>https://github.com/skyuj/posts/3eee.html</id>
@@ -97,6 +69,34 @@
     
     
       <category term="Python" scheme="https://github.com/skyuj/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaTest</title>
+    <link href="https://github.com/skyuj/posts/3eed.html"/>
+    <id>https://github.com/skyuj/posts/3eed.html</id>
+    <published>2022-01-16T12:52:20.000Z</published>
+    <updated>2022-01-17T04:42:34.599Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JavaTest雷达&quot;&gt;&lt;a href=&quot;#JavaTest雷达&quot; class=&quot;headerlink&quot; title=&quot;JavaTest雷达&quot;&gt;&lt;/a&gt;JavaTest雷达&lt;/h1&gt;&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/tags/Java/"/>
     
   </entry>
   
