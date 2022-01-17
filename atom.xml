@@ -45,6 +45,66 @@
   </entry>
   
   <entry>
+    <title>JVM</title>
+    <link href="https://github.com/skyuj/posts/JVM.html"/>
+    <id>https://github.com/skyuj/posts/JVM.html</id>
+    <published>2022-01-16T12:52:20.000Z</published>
+    <updated>2022-01-17T08:11:12.939Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JVM调优&quot;&gt;&lt;a href=&quot;#JVM调优&quot; class=&quot;headerlink&quot; title=&quot;JVM调优&quot;&gt;&lt;/a&gt;JVM调优&lt;/h1&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s</title>
+    <link href="https://github.com/skyuj/posts/k8s.html"/>
+    <id>https://github.com/skyuj/posts/k8s.html</id>
+    <published>2022-01-16T12:52:20.000Z</published>
+    <updated>2022-01-17T08:09:56.593Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://github.com/skyuj/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PythonTest</title>
     <link href="https://github.com/skyuj/posts/3eee.html"/>
     <id>https://github.com/skyuj/posts/3eee.html</id>
