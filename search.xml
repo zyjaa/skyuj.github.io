@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>防猝死指南</title>
-      <link href="/posts/jk.html"/>
-      <url>/posts/jk.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-多运动"><a href="#1-多运动" class="headerlink" title="1. 多运动"></a>1. 多运动</h2><h2 id="2-睡眠质量"><a href="#2-睡眠质量" class="headerlink" title="2. 睡眠质量"></a>2. 睡眠质量</h2><h2 id="3-建议每天有1-2h不看电脑，休息眼睛"><a href="#3-建议每天有1-2h不看电脑，休息眼睛" class="headerlink" title="3. 建议每天有1-2h不看电脑，休息眼睛"></a>3. 建议每天有1-2h不看电脑，休息眼睛</h2><h2 id="4-上厕所赶紧去，别犹豫，犹豫会败北"><a href="#4-上厕所赶紧去，别犹豫，犹豫会败北" class="headerlink" title="4. 上厕所赶紧去，别犹豫，犹豫会败北"></a>4. 上厕所赶紧去，别犹豫，犹豫会败北</h2><h2 id="5-多喝水少喝咖啡之类的"><a href="#5-多喝水少喝咖啡之类的" class="headerlink" title="5. 多喝水少喝咖啡之类的"></a>5. 多喝水少喝咖啡之类的</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂谈 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>加密测试</title>
       <link href="/posts/jiami.html"/>
       <url>/posts/jiami.html</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>健康指南</title>
+      <link href="/posts/jk.html"/>
+      <url>/posts/jk.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-多运动"><a href="#1-多运动" class="headerlink" title="1. 多运动"></a>1. 多运动</h2><h2 id="2-睡眠质量"><a href="#2-睡眠质量" class="headerlink" title="2. 睡眠质量"></a>2. 睡眠质量</h2><h2 id="3-建议每天有1-2h不看电脑，休息眼睛"><a href="#3-建议每天有1-2h不看电脑，休息眼睛" class="headerlink" title="3. 建议每天有1-2h不看电脑，休息眼睛"></a>3. 建议每天有1-2h不看电脑，休息眼睛</h2><h2 id="4-上厕所赶紧去，别犹豫，犹豫会败北"><a href="#4-上厕所赶紧去，别犹豫，犹豫会败北" class="headerlink" title="4. 上厕所赶紧去，别犹豫，犹豫会败北"></a>4. 上厕所赶紧去，别犹豫，犹豫会败北</h2><h2 id="5-多喝水少喝咖啡之类的"><a href="#5-多喝水少喝咖啡之类的" class="headerlink" title="5. 多喝水少喝咖啡之类的"></a>5. 多喝水少喝咖啡之类的</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
             
         </tags>
       
