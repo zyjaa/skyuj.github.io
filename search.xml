@@ -4,61 +4,11 @@
   
     
     <entry>
-      <title>JVM</title>
-      <link href="/posts/JVM.html"/>
-      <url>/posts/JVM.html</url>
+      <title>一些东西</title>
+      <link href="/posts/renwu.html"/>
+      <url>/posts/renwu.html</url>
       
-        <content type="html"><![CDATA[<h1 id="JVM调优"><a href="#JVM调优" class="headerlink" title="JVM调优"></a>JVM调优</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>JavaTest</title>
-      <link href="/posts/3eed.html"/>
-      <url>/posts/3eed.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="JavaTest雷达"><a href="#JavaTest雷达" class="headerlink" title="JavaTest雷达"></a>JavaTest雷达</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C++Test</title>
-      <link href="/posts/3eec.html"/>
-      <url>/posts/3eec.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="C-Test雷达"><a href="#C-Test雷达" class="headerlink" title="C++Test雷达"></a>C++Test雷达</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<ol><li><h2 id="SpringBoot-ElasticSearch-MySql搭建网站"><a href="#SpringBoot-ElasticSearch-MySql搭建网站" class="headerlink" title="SpringBoot+ElasticSearch+MySql搭建网站"></a>SpringBoot+ElasticSearch+MySql搭建网站</h2></li><li><h2 id="SpringCloud"><a href="#SpringCloud" class="headerlink" title="SpringCloud"></a>SpringCloud</h2></li><li><h2 id="DDD"><a href="#DDD" class="headerlink" title="DDD"></a>DDD</h2></li><li><h2 id="K8S"><a href="#K8S" class="headerlink" title="K8S"></a>K8S</h2></li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -79,61 +29,11 @@
     
     
     <entry>
-      <title>PythonTest</title>
-      <link href="/posts/3eee.html"/>
-      <url>/posts/3eee.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="PythonTest雷达"><a href="#PythonTest雷达" class="headerlink" title="PythonTest雷达"></a>PythonTest雷达</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Python </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>k8s</title>
-      <link href="/posts/k8s.html"/>
-      <url>/posts/k8s.html</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>加密测试</title>
       <link href="/posts/jiami.html"/>
       <url>/posts/jiami.html</url>
       
-        <content type="html"><![CDATA[<h1 id="这是一个加密文章，只有输入正确密码才能查看，haha，这个很有意思"><a href="#这是一个加密文章，只有输入正确密码才能查看，haha，这个很有意思" class="headerlink" title="这是一个加密文章，只有输入正确密码才能查看，haha，这个很有意思"></a>这是一个加密文章，只有输入正确密码才能查看，haha，这个很有意思</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="加密文章"><a href="#加密文章" class="headerlink" title="加密文章"></a>加密文章</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
