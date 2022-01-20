@@ -4,56 +4,6 @@
   
     
     <entry>
-      <title>一些东西</title>
-      <link href="/posts/renwu.html"/>
-      <url>/posts/renwu.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-SpringBoot-ElasticSearch-MySql搭建网站"><a href="#1-SpringBoot-ElasticSearch-MySql搭建网站" class="headerlink" title="1. SpringBoot+ElasticSearch+MySql搭建网站"></a>1. SpringBoot+ElasticSearch+MySql搭建网站</h2><h2 id="2-SpringCloud"><a href="#2-SpringCloud" class="headerlink" title="2. SpringCloud"></a>2. SpringCloud</h2><h2 id="3-DDD"><a href="#3-DDD" class="headerlink" title="3. DDD"></a>3. DDD</h2><h2 id="4-K8S"><a href="#4-K8S" class="headerlink" title="4. K8S"></a>4. K8S</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>加密测试</title>
-      <link href="/posts/jiami.html"/>
-      <url>/posts/jiami.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="加密文章"><a href="#加密文章" class="headerlink" title="加密文章"></a>加密文章</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 公告 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 公告 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于本站</title>
       <link href="/posts/3eeb.html"/>
       <url>/posts/3eeb.html</url>
@@ -71,31 +21,6 @@
         <tags>
             
             <tag> 公告 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>健康指南</title>
-      <link href="/posts/jk.html"/>
-      <url>/posts/jk.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-多运动"><a href="#1-多运动" class="headerlink" title="1. 多运动"></a>1. 多运动</h2><h2 id="2-睡眠质量"><a href="#2-睡眠质量" class="headerlink" title="2. 睡眠质量"></a>2. 睡眠质量</h2><h2 id="3-建议每天有1-2h不看电脑，休息眼睛"><a href="#3-建议每天有1-2h不看电脑，休息眼睛" class="headerlink" title="3. 建议每天有1-2h不看电脑，休息眼睛"></a>3. 建议每天有1-2h不看电脑，休息眼睛</h2><h2 id="4-上厕所赶紧去，别犹豫"><a href="#4-上厕所赶紧去，别犹豫" class="headerlink" title="4. 上厕所赶紧去，别犹豫"></a>4. 上厕所赶紧去，别犹豫</h2><h2 id="5-多喝水少喝咖啡之类的"><a href="#5-多喝水少喝咖啡之类的" class="headerlink" title="5. 多喝水少喝咖啡之类的"></a>5. 多喝水少喝咖啡之类的</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂谈 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
             
         </tags>
       
