@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>关于本站</title>
-      <link href="/posts/3eeb.html"/>
-      <url>/posts/3eeb.html</url>
+      <title>进击的巨人</title>
+      <link href="/posts/juren.html"/>
+      <url>/posts/juren.html</url>
       
-        <content type="html"><![CDATA[<h2 id="1-留言板暂时关闭，有时间再开发哈哈"><a href="#1-留言板暂时关闭，有时间再开发哈哈" class="headerlink" title="1. 留言板暂时关闭，有时间再开发哈哈"></a>1. 留言板暂时关闭，有时间再开发哈哈</h2><h2 id="2-这个站站花了3天左右搭建好，网络加速有时间再优化下"><a href="#2-这个站站花了3天左右搭建好，网络加速有时间再优化下" class="headerlink" title="2. 这个站站花了3天左右搭建好，网络加速有时间再优化下"></a>2. 这个站站花了3天左右搭建好，网络加速有时间再优化下</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
